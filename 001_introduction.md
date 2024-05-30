@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Great Project
-number: 003
+title: Introduction
+number: 001
 ---
 # MinDoc
-**A Minimal Computing Template for Publishing Digital Documentary Editions of Primary Sources **
+# **A Minimal Computing Template for Publishing Digital Documentary Editions of Primary Sources **
 
-****By Liza Senatorova, John Randolph, Caroline Kness ****
+# ****By Liza Senatorova, John Randolph, Caroline Kness ****
