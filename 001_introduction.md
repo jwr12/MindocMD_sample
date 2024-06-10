@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Introduction
-number: 001
+title: The Source
+number: 002
 ---
-# MinDoc
 
-**A Minimal Computing Template for Publishing Digital Documentary Editions of Primary Sources**
+# The Source
 
-By Liza Senatorova, John Randolph, Caroline Kness 
+World War One Poster
 
-{% assign intro_images = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'introduction'" | where_exp: "item", "item.media_type == 'image'" %}
-{% include media.html pages=intro_images %}
+{% assign intro_images = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source'" | where_exp: "item", "item.media_type == 'image'" |  where_exp: "item", "item.order == '01'" %} 
+
+{% include media.html pages=intro_images %} 
