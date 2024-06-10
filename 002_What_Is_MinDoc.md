@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Source
+title: What Is MinDoc?
 number: 002
 ---
 
