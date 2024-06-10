@@ -6,8 +6,6 @@ number: 002
 
 # What Is MinDoc?
 
-<!-- -->
-
 1.   **What is MinDoc? ** [MinDoc](https://github.com/TonLeon/mindoc) is
     a digital documentary publishing template that anyone can use to
     create a high-quality digital edition of a historical source. 
