@@ -4,7 +4,7 @@ title: How to Build Your Site on GitHub
 number: 004
 ---
 
-# About this Edition
+# How to Build Your Site on GitHub
 
 5.1.  **Establish a Repository with Your Copy of MinDoc In It**: The first
     thing you'll need to do---to build your website---is to create a
