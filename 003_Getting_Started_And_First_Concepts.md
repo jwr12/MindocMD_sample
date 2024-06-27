@@ -8,7 +8,7 @@ number: 003
 
 <!-- -->
 
-1.  ** What Counts as a Historical Document?** MinDoc publishes
+1.  **What Counts as a Historical Document?** MinDoc publishes
     historical documents.  But what counts as a historical document? In
     theory, pretty much anything. Any artifact or object--whether it's a
     text, a picture, film, a sound, a rock, a classroom chair with
@@ -19,7 +19,7 @@ number: 003
 
 <!-- -->
 
-2.  ** What Makes This a 'Documentary Edition'?** An edition is a
+2.  **What Makes This a 'Documentary Edition'?** An edition is a
     presentation of something: a publication, something you put out into
     the world (or in this case, online). A *documentary* edition
     (sometimes called a historical edition) is publication that presents
