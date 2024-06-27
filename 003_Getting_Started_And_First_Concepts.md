@@ -45,7 +45,7 @@ number: 003
 
 <!-- -->
 
-3.  **How Do I Get a Digital Copy of My Source? ** One thing you'll need
+3.  **How Do I Get a Digital Copy of My Source?** One thing you'll need
     is the ability to create a digital copy (file) of your source.
     MinDoc doesn't digitize things or make copies for you. But chances
     are you already make digital copies of things all the time, using
