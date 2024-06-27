@@ -6,7 +6,7 @@ number: 002
 
 # What Is MinDoc?
 
-1.   **What is MinDoc? ** [MinDoc](https://github.com/TonLeon/mindoc) is
+1.   **What is MinDoc?** [MinDoc](https://github.com/TonLeon/mindoc) is
     a digital documentary publishing template that anyone can use to
     create a high-quality digital edition of a historical source. 
     MinDoc has been designed to meet the basic [standards for digital
@@ -45,7 +45,7 @@ number: 002
 
 <!-- -->
 
-3.  ** What Can MinDoc Publish?** MinDoc is designed to put almost any
+3.  **What Can MinDoc Publish?** MinDoc is designed to put almost any
     kind of digital file onto the Web: from images to sounds to texts to
     video.  More specifically, MinDoc publishes digital documents
     together with the information people need to use these sources to
@@ -56,7 +56,7 @@ number: 002
 
 <!-- -->
 
-4.  ** What Kind of Website Will MinDoc Produce?** MinDoc will help you
+4.  **What Kind of Website Will MinDoc Produce?** MinDoc will help you
     create a so-called 'static' website.  This means that your website
     will not be dynamically updated by an external database. It won't
     feature new content based on automatic updates, it won't
@@ -69,7 +69,7 @@ number: 002
 
 <!-- -->
 
-5.  ** What Will I Learn as I Do This?** You'll learn to edit basic
+5.  **What Will I Learn as I Do This?** You'll learn to edit basic
     files and gain elementary coding skills in the elementary
     programming language Markdown. This, in turn, will help prepare you
     to produce web content across a number of different
