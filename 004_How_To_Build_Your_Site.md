@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About this Edition
+title: How to Build Your Site on GitHub
 number: 004
 ---
 
