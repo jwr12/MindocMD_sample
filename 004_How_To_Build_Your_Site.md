@@ -65,7 +65,7 @@ number: 004
 
 <!-- -->
 
-5.1.7.  **Illustration of Preferences Screen:   ** 
+5.1.7.  **Illustration of Preferences Screen:** 
 
  ![Alt text](image-1.png)
 
