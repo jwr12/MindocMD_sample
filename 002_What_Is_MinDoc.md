@@ -81,12 +81,12 @@ number: 002
     principles of documentary editing that shape scholarly efforts to
     publish the past today.  For a larger course on the craft of
     documentary editing, see the wonderful
-    [[eLaboratories]{.underline}](https://elaboratories.org/) website
+    [[eLaboratories](https://elaboratories.org/) website
     produced by the [[University of
-    Virginia's]{.underline}](https://www.virginia.edu/) [[Center for
+    Virginia's](https://www.virginia.edu/) [[Center for
     Digital Editing](https://centerfordigitalediting.org/),
     in collaboration with the [[National
-    Archives]{.underline}](https://www.archives.gov/). 
+    Archives] (https://www.archives.gov/). 
 
 
 
