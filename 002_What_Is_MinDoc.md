@@ -22,7 +22,7 @@ number: 002
     a digital humanities collective based at the [University of Illinois
     Urbana-Champaign](https://illinois.edu/). It is distributed freely
     for any use under an [[MIT
-    license](https://opensource.org/license/MIT/).]{.underline} 
+    license](https://opensource.org/license/MIT/).]
 
 <!-- -->
 
