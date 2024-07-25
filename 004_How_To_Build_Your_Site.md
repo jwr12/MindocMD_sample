@@ -22,13 +22,13 @@ number: 004
 <!-- -->
 
 5.1.1.  **Sign in to GitHub**.  If you don't already have an account, create
-    one. Go to [[https://github.com]{.underline}](https://github.com/)
+    one. Go to [[https://github.com]](https://github.com/)
     and select "sign up" at the top right corner. 
 
 <!-- -->
 
-5.1.2.  **Go to the [*[MinDoc
-    Repository]{.underline}*](https://github.com/SourceLabUIUC/MinDoc)** 
+5.1.2.  **Go to the *[MinDoc
+    Repository]*](https://github.com/SourceLabUIUC/MinDoc)** 
     This is where you will find all the MinDoc files.  Don't worry about
     knowing what they all mean yet (we'll get to that). 
 
