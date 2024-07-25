@@ -4,9 +4,9 @@ title: Credits
 number: 007 
 ---
 
-# Credits and Acknowledgments
+# Building Your Website
 
-7.  **Building Your Website** 
+**Building Your Website** 
 
 <!-- -->
 
