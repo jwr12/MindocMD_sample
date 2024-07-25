@@ -41,8 +41,7 @@ number: 003
     text, 2) explanatory annotation and 3) an explanation of the
     editorial practices used on the texts." Our template is designed to
     help you create a documentary edition that meets these
-    standards.** ** 
-
+    standards.
 <!-- -->
 
 3.  **How Do I Get a Digital Copy of My Source?** One thing you'll need
