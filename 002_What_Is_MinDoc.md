@@ -85,7 +85,7 @@ number: 002
     produced by the [University of
     Virginia's](https://www.virginia.edu/) [Center for
     Digital Editing](https://centerfordigitalediting.org/),
-    in collaboration with the [[National
+    in collaboration with the [National
     Archives] (https://www.archives.gov/). 
 
 
