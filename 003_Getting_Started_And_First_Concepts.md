@@ -31,11 +31,11 @@ number: 003
     readers with a published version of an actual document as it is, so
     they can use it as a source of information about a moment in time. 
     People publish documents for a number of
-    [[reasons]{.underline}](https://elaboratories.org/courses/why-edit/):
+    [[reasons]](https://elaboratories.org/courses/why-edit/):
     to help a history be more widely known or studied; to make it more
     accessible; to enter it into the public record so it can be cited;
     to preserve it.  The Association for Documentary Editing
-    [[defines]{.underline}](https://www.documentaryediting.org/wordpress/?page_id=508)
+    [[defines]](https://www.documentaryediting.org/wordpress/?page_id=508)
     a digital documentary edition as an electronic publication of
     "primary source material prepared with 1) rigorous attention to the
     text, 2) explanatory annotation and 3) an explanation of the
@@ -66,10 +66,10 @@ number: 003
     however, and many other things may be publishable by making a 'Fair
     Use' claim.  For a guide to evaluating what your options may be
     under U.S. Copyright law, see the [[Fair Use (FAQ) \| U.S. Copyright
-    Office]{.underline}](https://www.copyright.gov/help/faq/faq-fairuse.html).  
+    Office]](https://www.copyright.gov/help/faq/faq-fairuse.html).  
     We also highly recommend Neel Agrawal's great course on securing
     permissions, freely available through the
-    [[eLaboratories]{.underline}](https://elaboratories.org/courses/securing-permissions/)
+    [[eLaboratories]](https://elaboratories.org/courses/securing-permissions/)
     website. 
 
 <!-- -->
