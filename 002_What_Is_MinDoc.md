@@ -21,8 +21,8 @@ number: 002
     [SourceLab](https://experts.illinois.edu/en/activities/sourcelab-journal),
     a digital humanities collective based at the [University of Illinois
     Urbana-Champaign](https://illinois.edu/). It is distributed freely
-    for any use under an [[MIT
-    license](https://opensource.org/license/MIT/).]
+    for any use under an [MIT
+    license(https://opensource.org/license/MIT/).]
 
 <!-- -->
 
@@ -82,8 +82,8 @@ number: 002
     publish the past today.  For a larger course on the craft of
     documentary editing, see the wonderful
     [[eLaboratories](https://elaboratories.org/) website
-    produced by the [[University of
-    Virginia's](https://www.virginia.edu/) [[Center for
+    produced by the [University of
+    Virginia's](https://www.virginia.edu/) [Center for
     Digital Editing](https://centerfordigitalediting.org/),
     in collaboration with the [[National
     Archives] (https://www.archives.gov/). 
