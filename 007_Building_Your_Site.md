@@ -289,10 +289,7 @@ number: 007
 
 <!-- -->
 
-2.  **All Media Files are Found in the Folder Called Assets**.  The
-    first thing to know is that all of the media files for your edition
-    should go in the folder called 'Assets.'  You can upload a variety
-    of file formats here, but common ones are best.   
+2.  **All Media Files are Found in the Configuration_Files and Media_Files folders**. The first thing to know is that you should upload your media files into the subfolder called ‘Assets’ within the ‘Configuration_Files’ folder. You can upload a variety of file formats here.   
 
 <!-- -->
 
@@ -315,15 +312,15 @@ number: 007
     important to add and edit a separate file that describes it and
     identifies it for users. This will also help MinDoc understand where
     each file should go on your pages.  The metadata files for your
-    media are found in the folder **\_mindoc_media**. Here's how to
+    media are found in the folder **\_media_files**. Here's how to
     create and edit them: 
 
--   **Go to the Folder_mindoc_media**. You'll see a sample, model
+-   **Go to the Folder media_files and click on the subfolder _media_metadata**. You'll see a sample, model
     metadata file already there, called "introduction_img_1.md".   
 
 <!-- -->
 
--   **Open the Sample File (**introduction_img_1.md). Double click it.
+-   **Open the Sample File** (**introduction_img_1.md). Double click it.
     Look at the contents. As you'll see, it contains a YAML field (the
     text surrounded by three dashes) as well as plain text. In these
     files, we'll need to fill out two different kinds of metadata
@@ -519,7 +516,15 @@ number: 007
     the "assets" folder and the "\_mindoc_media" folder). Then click on
     the three dots in the top right corner and click "delete file".  
 
-5.  **How to Add Footnotes.** So most scholarly sites will have
+<!-- -->
+
+5.  **How to Add A PDF.** Upload your PDF file to /media_files/pdfs like you did for images. Create a link with the following:
+
+[Download PDF file]({{ site.baseurl }}/media_files/pdfs/FILE_NAME_OF_PDF.pdf)
+
+Replace FILE_NAME_OF_PDF with the actual name of the file.
+
+6.  **How to Add Footnotes.** So most scholarly sites will have
     footnotes.  Fortunately, it's easy to do that in Markdown, and
     [[GitHub]{.underline}](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/)
     recognizes this code. Here's how. 
