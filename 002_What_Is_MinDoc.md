@@ -76,12 +76,12 @@ number: 002
     platforms---blogs, e-journals, websites, social media,
     newsletters---and help you get ready to tackle more advanced web
     development skills.  You'll also get introduced to the world of
-    [[Github](https://github.com/)---a universe of content
+    [Github](https://github.com/)---a universe of content
     by programmers and scholars all over the world---as well as the
     principles of documentary editing that shape scholarly efforts to
     publish the past today.  For a larger course on the craft of
     documentary editing, see the wonderful
-    [[eLaboratories](https://elaboratories.org/) website
+    [eLaboratories](https://elaboratories.org/) website
     produced by the [University of
     Virginia's](https://www.virginia.edu/) [Center for
     Digital Editing](https://centerfordigitalediting.org/),
