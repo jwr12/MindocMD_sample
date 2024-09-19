@@ -86,7 +86,7 @@ number: 003
 
 <!-- -->
 
- **Researching Your Source** 
+# **Researching Your Source** 
  
  MinDoc is a platform for publishing your document. But what do you need to know to present it to readers and viewers?  What kinds of information should you be prepared to offer about it, and what are some good kinds of questions to ask, in order to get there?  Libraries are full of information, as is the Internet.  But how should you plan your research about your source? Here are a few different approaches you might take, each with its own set of questions.  You can do them in any order, though we would suggest the following.
 
