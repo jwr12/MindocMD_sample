@@ -23,13 +23,12 @@ number: 003
     presentation of something: a publication, something you put out into
     the world (or in this case, online). A *documentary* edition
     (sometimes called a historical edition) is publication that presents
-    an artifact (or artifacts) as it existed (or exists) in the world,
-    so that it can be used to explore the past. In other words, the goal
-    isn't to present the *best* version of something, or the one that is
-    somehow *truest* to someone's ideal version---it\'s not a revised
+    an artifact so it can be used to explore history. In other words, the goal of this kind of edition
+    isn't to present the *best* version of something (whatever that is), or the one that is
+    somehow truest to some ideal---it\'s not a revised
     novel or a Director's Cut.  A documentary edition seeks to present
-    readers with a published version of an actual document as it is, so
-    they can use it as a source of information about a moment in time. 
+    readers with a published version of an actual document as it has come down to us, so
+    they cite it as evidence about the past. 
     People publish documents for a number of
     [reasons](https://elaboratories.org/courses/why-edit/):
     to help a history be more widely known or studied; to make it more
